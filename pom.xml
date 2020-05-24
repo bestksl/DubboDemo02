@@ -26,7 +26,7 @@
 
     <modules>
         <module>user-api</module>
-        <module>UserProvider</module>
+        <module>User-Provider</module>
         <module>user-consumer</module>
     </modules>
 
